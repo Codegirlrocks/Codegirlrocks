@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Codegirlrocks
-- 👀 I’m interested in learning and explorng 
+- 👋 Hi, I’m Garima singh
+- 👀 I’m interested in learning and exploring 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on python projects 
 - 📫 How to reach me at garimac26@gmail.com
